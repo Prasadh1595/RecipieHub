@@ -277,8 +277,6 @@ To run RecipeHub locally, follow these steps:
 <img width="948" alt="Explore Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/120l1mkq8c6wwc6jd4io.png">
 <img width="948" alt="Explore Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pu2o5rjqwli7fkbpgt9p.png">
 
-### Feed Page
-<img width="948" alt="Feed Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iv2453qehp2ir903stfs.png">
 
 
 ## Contributors
