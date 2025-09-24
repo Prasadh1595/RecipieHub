@@ -291,11 +291,9 @@ To run RecipeHub locally, follow these steps:
 ## Contributors
 
 RecipeHub is a teamwork project. Meet our awesome teammates:
-- Ayushmaan Rajput(team lead) - Email: ayushmaanrajput25feb@gmail.com
-- Nishant Singh - Email: nishantkr488@gmail.com
-- Ranvijay Tiwari - Email: ranvijaytiwari0000@gmail.com
-- Vamshikrishna Bejjarapu - Email: vamshikrishna99089@gmail.com
+- Prasad Sangana - Email:23kb1a3090@nbkrist.org
+- Bharath Sanaga - Email: 23kb1a3089@nbkrist.org
+- Sankar Narayana - Email: 23kb1a3087@nbkrist.org
 
-*Note: This group project was developed in 5 days.*
 <br>
 -------------------------------Thank You😊-----------------------------------------
